@@ -1,0 +1,6 @@
+.levelup-pricing-table-column label,
+.levelup-pricing-table-column input,
+.levelup-pricing-table-column select {
+    display: flex;
+    flex-direction: column;
+}
